@@ -5,7 +5,7 @@ let a = 10;
 let b = 5;
 console.log(a+b);
 
-const PI=3.1416;
+// const PI=3.1416;
 
 function copia_cola(){
     let n = document.getElementById('nome').value;

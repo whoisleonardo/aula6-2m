@@ -88,3 +88,8 @@ main section{
     padding: 5px;
     font-size: 100%;
 }
+li{
+    margin: 5px;
+    background-color: #ffcaca;
+    padding: 5px;
+}
